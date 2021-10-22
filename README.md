@@ -1,5 +1,5 @@
 # jmaps
-bad keybinding plugin for lazy people
+little script for creating keybindings in a json file
 
 ## Work in Progress
 Still trying to come up with a way of having multiple keys mapped to a function,
