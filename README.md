@@ -3,7 +3,7 @@ bad keybinding plugin for lazy people
 
 ## Work in Progress
 Still trying to come up with a way of having multiple keys mapped to a function,
-without creating a comlicated json file.
+without creating a complicated json file.
 
 Furthermore having ```["K", "<leader>F"] : "command"``` wont work obviously.
 
